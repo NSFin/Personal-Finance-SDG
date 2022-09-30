@@ -4,7 +4,7 @@
 
 ## Objective
 
-This page will be a resource hub for any material our Velocity peers come accross or create that they deem valuable and shareable
+This page will be a resource hub for any material our Velocity peers come across or create that they deem valuable and shareable
 
 ## Usage
 
