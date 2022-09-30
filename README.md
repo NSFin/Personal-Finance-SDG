@@ -23,5 +23,8 @@ We hope that this page will be a resource hub for any material our Velocity peer
     + Any website that contains tools, news, or other useful material
 4. Software
     + Any source code that has been developed by you that you would like to share
-    
-# **Happy learning!!**
+
+
+<p align="center">
+    # **Happy learning!!**
+</p>
