@@ -12,6 +12,7 @@ This page will be a hub for any material our Velocity peers come across or creat
     + You can also download documents individually if you wish!
 2. Indulge in all the finance material contained within
 3. If you wish to contribute, submit pull requests and let us know what you've added and why!
+    + Or we can add it on your behalf!
 
 
 ## Material Types
