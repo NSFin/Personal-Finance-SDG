@@ -1,6 +1,6 @@
 ![PFSDG logo](Objs/VPFSDG.png)
 
-# Welcome to the Velocity `Personal Finance SDG` GitHub Repo!
+# Welcome to the `Personal Finance SDG` Repo!
 
 ## Objective
 
