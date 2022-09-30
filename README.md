@@ -15,16 +15,18 @@ We hope that this page will be a resource hub for any material our Velocity peer
 
 ## Material Types
 
-1. Articles
+1. Sessional
+    + Any material created and delivered by the Personal Finance SDG team during tuorials and analysis
+3. Articles
     + Any news or opinion pieces published by reputable sources or authorities in the finance/economics domain
-2. Books
+4. Books
     + Any textbook or non-fiction work that covers finance or economic material
-3. Websites
+5. Websites
     + Any website that contains tools, news, or other useful material
-4. Software
+6. Software
     + Any source code that has been developed by you that you would like to share
+---
 
 
-<p align="center">
-    # **Happy learning!!**
-</p>
+# **Happy learning!!!**
+
