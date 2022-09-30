@@ -9,6 +9,7 @@ This page will be a resource hub for any material our Velocity peers come across
 ## Usage
 
 1. Clone repo and create a new branch: $ git checkout https://github.com/gmandl10/Personal-Finance-SDG -b name_for_new_branch
+    + You can also download documents individually if you wish!
 2. Indulge in all the finance material contained within
 3. If you wish to contribute, submit pull requests and let us know what you've added and why!
 
