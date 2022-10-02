@@ -7,5 +7,5 @@
 | [Dividend Reinvestment Calculator](https://www.marketbeat.com/dividends/calculator/) | DRIP calculator |
 | [Trading Economics](https://tradingeconomics.com/) | General overview for global economic data |
 | [Finviz](https://finviz.com/) | Wide range of tools (heatmaps, recaps, etc.) |
-| [ETF.com](https://www.etf.com/etfanalytics/etf-finder) | An ETF screener |
+| [ETF.com](https://www.etf.com/etfanalytics/etf-finder) | An ETF database and screener |
 | [Corporate Financial Institute](https://corporatefinanceinstitute.com/collections/) | High quality online finance course provider |
