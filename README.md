@@ -15,9 +15,9 @@ This page will be a hub for any material our Velocity peers come across or creat
     + Or we can add it on your behalf!
 
 
-## Material Types
+## Organization
 
-1. Sessional
+1. Sessionals
     + Any material created and delivered by the Personal Finance SDG team during tutorials and analysis
 3. Articles
     + Any news or opinion pieces published by reputable sources or authorities in the finance/economics domain
