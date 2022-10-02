@@ -1,10 +1,13 @@
 ![PFSDG logo](Objs/VPFSDG.png)
 
+
 # Welcome to the `Personal Finance SDG` Repo!
+
 
 ## Objective
 
 This page will be a hub for any material our Velocity peers come across or create that they deem valuable and shareable
+
 
 ## Usage
 
@@ -18,15 +21,15 @@ This page will be a hub for any material our Velocity peers come across or creat
 ## Organization
 
 1. Sessionals
-    + Any material created and delivered by the Personal Finance SDG team during tutorials and analysis
+    + Material created and delivered by the Personal Finance SDG team during tutorials and analysis
 3. Articles
-    + Any news or opinion pieces published by reputable sources or authorities in the finance/economics domain
+    + News or opinion pieces published by reputable sources or authorities in the finance/economics domain
 4. Books
-    + Any textbook or non-fiction work that covers finance or economic material
+    + Textbooks or non-fiction works that covers finance or economic material
 5. Websites
-    + Any website that contains tools, news, or other useful material
+    + Websites that contains tools, news, or other useful material
 6. Software
-    + Any source code that has been developed by you that you would like to share
+    + Source code developed by velocity students that they would like to share
 ---
 
 
