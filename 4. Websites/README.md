@@ -8,3 +8,4 @@
 | [Trading Economics](https://tradingeconomics.com/) | General overview for global economic data |
 | [Finviz](https://finviz.com/) | Wide range of tools (heatmaps, recaps, etc.) |
 | [ETF.com](https://www.etf.com/etfanalytics/etf-finder) | An ETF screener |
+| [Corporate Financial Institute(https://corporatefinanceinstitute.com/collections/) | A high quality finance online course provider |
