@@ -1,0 +1,128 @@
+Objective:
+	Geographic Allocation:
+		75% North America
+		25% International
+	Sector Allocation:
+		30% Information Technology
+		15% Financials
+		15% Real Estate
+		15% Healthcare
+		25% Other
+	Style Allocation:
+		80% Large and Mid Cap
+		20% Small Cap
+-----------------------------
+
+Suggestion:
+	50% SPY
+	25% VXUS
+	15% IWM
+	10% XLRE
+----------------
+
+Purchasing Schedule:
+	Basket: 1x SPY, 4x VXUS, 1x IWM, 3x XLRE
+	        Total USD of: $858.27 (43.66% SPY, 22.77% VXUS, 19.62% IWM, 13.94% XLRE) [As of July 15th]
+        	Total CAD of: $1146.73 (Conversion rate of 1.3) [As of July 15th]
+        	Net CAD Total: $1146.73 + IKBR fees
+
+	Schedule: $1800 Initial investment, $650 contributions for x weeks, $500 (or less) contributions after x weeks.
+        	Initial Investment of $1800 allows you to make 1 basket purchase immediately.
+        	The following $650 contribution from paycheque will allow you make 1 additional basket purchase.
+        	Contributions of $650CAD from each paycheque afterwards will allow you to make 1 purchase every 2 paycheques (assuming prices stay low).
+        	At some point, prices will rise such that a purchase can only be made every 3 paycheques. [Condition: Net CAD total > $1300.00]
+        	When that happens, reduce contributions to $500 and adjust purchasing so as to better align portfolio allocation with suggestion (Prioritize: SPY > VXUS > IWM > XLRE)
+        	Do so in such a way that purchases can be made on a bi-paycheque basis.
+---------------------------------------------------------------------------------------
+		
+
+SPY (Spyder S&P 500 ETF) [July 15th]:
+	- Last Price: $385.13USD [old: $372.55]
+	- Tracks ~80% of entire U.S Market
+	- Highly diversified, go-to for benchmarking performance
+	- Fees of 0.0945%
+	- Dividend yield of 1.69%
+	- Sector Allocation:
+		- 27.13% Information Technology
+		- 15% Health care
+		- 10.9% Consumer Discretionary
+		- 10.75% Financials
+		- 8.92% Communication Service
+		- 7.66% Industrials
+		- 6.99% Consumer staples
+		- 4.16% Energy
+		- 3.06% Utilities
+		- 2.9% Real Estate
+		- 2.54% Materials
+		- Total: 100.01%
+
+
+VXUS (Vanguard Total International Stock ETF) [July 15th]:
+	- Last Price: $50.22USD [old: $49.33]
+	- Tracks ~8000 stocks internationally
+	- Great for international diversification
+	- Fees of 0.07%
+	- Dividend yield of 3.95%
+	- Geographic Allocation:
+		- 25.20% Emerging Markets
+		- 39.60% Europe
+		- 26.70% Pacific
+		- 0.50% Middle East
+		- 7.90% North America
+		- 0.10% Other
+	- Sector Allocation:
+		- 19.27% Financials
+		- 13.98% Industrials
+		- 12.85% Consumer Discretionary
+		- 12.38% Technology
+		- 9.07% Health Care
+		- 9.07% Basic Materials
+		- 7.42% Consumer Staples
+		- 6.21% Energy
+		- 3.68% Real Estate
+		- 3.57% Communication Service
+		- 3.46% Utilities
+		- 0.03% Other
+
+
+IWM (iShares Russell 2000 ETF) [July 15th]:
+	- Last Price: $173.09USD [old: 167.74]
+	- Tracks 2000 Small Market Capitalization companies
+	- Exposure to small-cap growths and values
+	- Fees of 0.19%
+	- Dividend yield of 1.32%
+	- Sector Allocation:
+		- 17.90% Health Care
+		- 16.93% Financials
+		- 14.82% Industrials
+		- 13.38% Information Technology
+		- 10.31% Consumer Discretionary
+		- 7.30% Real Estate
+		- 5.21% Energy
+		- 4.00% Materials
+		- 3.76% Consumer Staples
+		- 3.49% Utilities
+		- 2.75% Communication
+		- 0.14% Other
+
+
+XLRE (Real Estate Sectpr SPDR ETF) [July 15th]:
+	- Last Price: $41.00USD [old: $40.22]
+	- Tracks 31 different REIT companies/servicers in the S&P 500
+	- Great exposure to most powerful REITs
+	- fees of 0.1%
+	- Dividend yield of 3.06%
+	- Business Allocation (100% Real Estate):
+		- 12.78% American Tower Corp
+		- 9.60% Prologis
+		- 7.95% Crown Castle Int. corp
+		- 6.12% Equinix inc 
+		- 5.02% Public Storage
+		- 4.40% Realty Income Corp
+		- 3.76% Digital Realty Trust Inc
+		- 3.71% SBA Communication Corp. 
+		- 3.37% Simon Property Group Inc.
+		- Total: 56.71%
+
+
+
